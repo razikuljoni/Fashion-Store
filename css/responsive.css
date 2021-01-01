@@ -1,0 +1,225 @@
+@media(max-width: 1024px) {
+    .service-left-title {
+        margin-bottom: 22px;
+    }
+
+    .p2.news {
+        font-size: 11px;
+    }
+
+    .d-flex.flex-row {
+        font-size: 10px;
+        padding-top: 8px;
+    }
+
+    .col-md-3.footer-col {
+        padding: 0px 53px;
+        border-left: 2px solid#dfdfdf;
+    }
+}
+
+@media(max-width: 980px) {
+    .col-md-6.home-text {
+        padding-top: 60px;
+    }
+
+    .btn.btn-dark.home-button {
+        padding: 12px 28px;
+        background: #000;
+        color: #fff;
+        border-radius: 0px;
+        border: 0px;
+        font-size: 15px;
+        text-transform: uppercase;
+    }
+
+    .product-button button {
+        font-size: 10px;
+        width: 100%;
+        padding: 13px 0px;
+        text-transform: uppercase;
+        color: white;
+        background-color: black;
+        border: none;
+        margin-bottom: 20px;
+        display: none;
+    }
+
+    .p-2.service-icon h4 {
+        font-size: 18px;
+    }
+
+    .service-left-title h3 {
+        padding-left: 110px;
+    }
+
+    .p-2.news img {
+        width: 190px;
+    }
+
+    .p-2.news h4 {
+        font-size: 13px;
+        padding-top: 15px;
+    }
+
+    #footer-section {
+        margin-top: 75px;
+    }
+
+    .footer-top h4 {
+        font-size: 14px;
+        float: right;
+        padding-top: 10px;
+        text-transform: uppercase;
+    }
+
+    .col-md-3.footer-col {
+        padding: 0px 30px;
+    }
+}
+
+@media(max-width: 768px) {
+    .product-button button {
+        font-size: 15px;
+        width: 100%;
+        padding: 13px 0px;
+        text-transform: uppercase;
+        color: white;
+        background-color: black;
+        border: none;
+        margin-bottom: 20px;
+        display: none;
+    }
+
+    .col-md-3.footer-first-col {
+        margin-bottom: 15px;
+    }
+    .tabs-button ul {
+        text-align: center;
+        display: block;
+        margin-top: 13px;
+        margin-bottom: 40px;
+    }
+    img {
+        vertical-align: middle;
+        border-style: none;
+        float: ; 
+        padding-left: 0px;
+    }
+    .footer-middle{
+        text-align: center;
+    }
+    .col-md-3.footer-col{
+        padding: 0px 75px;
+        border-left: 0px solid#dfdfdf;
+      }
+      .footer-top h4 {
+        font-size: 18px;
+        float: left;
+        padding-top: 10px;
+        text-transform: uppercase;
+    }
+
+    
+}
+@media(max-width: 480px){
+    #home-section h2 {
+        font-size: 20px;
+      }
+      #home-section h1 {
+        font-size: 30px;
+        text-transform: uppercase;
+      }
+    .col-md-6.home-text {
+        padding-top: 90px;
+      }
+      #home-section p {
+        font-size: 13px;
+        color: #a9765a;
+        font-family: ;
+        padding-top: 0px;
+    }
+    .btn.btn-dark.home-button {
+    padding: 10px 25px;
+    background: #000;
+    color: #fff;
+    border-radius: 0px;
+    border: 0px;
+    font-size: 13px;
+    text-transform: uppercase;
+    }
+    .tabs-button ul li a {
+        color: #535353;
+        padding: 10px 20px;
+        text-decoration: none;
+        border: 1px solid#535353;
+        text-transform: uppercase;
+        font-size: 11px;
+      }
+      .tabs-button ul li {
+        display: inline;
+        margin-right: 12px;
+        position: relative;
+      }
+      .tabs-button ul li::after {
+        content: "";
+        height: 1px;
+        width: 16px;
+        background-color: #535353;
+        position: absolute;
+        top: 50%;
+        right: -16px;
+      }
+    .nav.nav-tabs {
+        margin-left: 17px;
+    }
+    .tabs-button ul {
+        text-align: center;
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 40px;
+      }
+    .col-md-2.col-sm-6.small{
+        padding: 10px 0px;
+        width: 50%;
+        display: block;
+        text-align: center;
+    }
+    .p-2.news h4 {
+        font-size: 11px;
+        padding-top: 15px;
+    }
+    .p-2.news h4 {
+        padding-top: 35px;
+      }
+    .col-md-5.envaloupe h4{
+          float: left;
+          margin-left: 69px;
+          margin-bottom: 15px;
+      }
+      .footer-middle{
+          text-align: center;
+      }
+      .col-md-3.footer-col p {
+        font-size: 15px;
+        padding-top: 0px;
+        line-height: 20px;
+    }
+    .col-md-3.footer-col h4 {
+        padding-top: 18px;
+        font-size: 17px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    .col-md-3.footer-col{
+        padding: 0px 75px;
+        border-left: 0px solid#dfdfdf;
+      }
+    .footer-top h4 {
+        font-size: 18px;
+        float: left;
+        padding-top: 10px;
+        text-transform: uppercase;
+    }
+      
+}
